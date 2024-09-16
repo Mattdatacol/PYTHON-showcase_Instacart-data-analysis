@@ -30,16 +30,17 @@ Instacart already has very good sales, and they want to uncover more information
 **Data population flow**
 ![population flow up the final merged file](images/Population_flow.png)
 
-- Only Jupyter Notebooks, running Python 3, on an Anaconda environment have been used.
 
-**Libraries at work on this project:**
- - Pandas
- - Numpy
- - OS
- - Matplotlib.pyplot
- - Seaborn
- - Plotly
- - SciPy
+- **Python Libraries at work on this project:**
+  - Pandas
+  - Numpy
+  - OS
+  - Matplotlib.pyplot
+  - Seaborn
+  - Plotly
+  - SciPy
+
+*Only Jupyter Notebooks, running Python 3, on an Anaconda environment have been used.*
 
 ## 4. Links to the PYTHON scrypts
 
