@@ -22,7 +22,7 @@ Instacart already has very good sales, and they want to uncover more information
 
 ## 3. Data set & tools
 
-Most files were collected on “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](HTTPS://www.kaggle.com/datasets/psporks/instacart-market-basket-analysis), dowloaded on May 20th 2024.
+- Most files were collected on “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](HTTPS://www.kaggle.com/datasets/psporks/instacart-market-basket-analysis), dowloaded on May 20th 2024.
 
 > [!CAUTION]
 > Data about customers has been fabricated by Careerfoundry for the purpose of the tuition and is not representative of real instacart customers
@@ -30,11 +30,23 @@ Most files were collected on “The Instacart Online Grocery Shopping Dataset 20
 **Data population flow**
 ![population flow up the final merged file](images/Population_flow.png)
 
+- Only Jupyter Notebooks, running Python 3, on an Anaconda environment have been used.
+
+**Libraries at work on this project:**
+ - Pandas
+ - Numpy
+ - OS
+ - Matplotlib.pyplot
+ - Seaborn
+ - Plotly
+ - SciPy
+
 ## 4. Links to the PYTHON scrypts
 
-- EDA on Python (Pandas)
+- Data wrangling
+- EDA on Python
 - Pivot tables and crosstabs 
-- Visualizations (Matplotlib, Seaborn, Plotly)
+- Visualizations
 - Final script of the project to showcase a full script
 
 ## 5. [Final Report](Final_Report/A4_final_report_Matthieu.xlsx) *Excel workbook to be dowloaded since the format is not supported inside Github*
