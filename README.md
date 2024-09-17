@@ -38,7 +38,6 @@ Instacart already has very good sales, and they want to uncover more information
   - Matplotlib.pyplot
   - Seaborn
   - Plotly
-  - SciPy
 
 *Only Jupyter Notebooks, running Python 3, on an Anaconda environment have been used.*
 
