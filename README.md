@@ -41,12 +41,16 @@ Instacart already has very good sales, and they want to uncover more information
 
 *Only Jupyter Notebooks, running Python 3, on an Anaconda environment have been used.*
 
-## 4. Links to PYTHON codes and scrypts
+## 4. Links to PYTHON scrypts
 
-- Data wrangling
-- EDA on Python
-- Pivot tables and crosstabs 
-- Visualizations
-- Final script of the project to showcase a full script
+- [Script showcasing a working file countaining the following:](Scripts/full_data_analysis_showcase.ipynb)
+   - Importing libraries and datasets
+   - Initial Data Inspection
+   - Data Cleaning/wrangling
+   - Univariate Analysis
+   - Bivariate Analysis
+   - Deriving variables
+   - Pivot tables and Data visualizations
+   - Exporting Dataframes and visualizations
 
 ## 5. [Final Report](Final_Report/A4_final_report_Matthieu.xlsx) *Excel workbook to be dowloaded since the format is not supported inside Github*
