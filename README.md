@@ -41,7 +41,7 @@ Instacart already has very good sales, and they want to uncover more information
 
 *Only Jupyter Notebooks, running Python 3, on an Anaconda environment have been used.*
 
-## 4. Links to the PYTHON scrypts
+## 4. Links to PYTHON codes and scrypts
 
 - Data wrangling
 - EDA on Python
