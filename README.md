@@ -51,6 +51,11 @@ Instacart already has very good sales, and they want to uncover more information
    - Bivariate Analysis
    - Deriving variables
    - Pivot tables and Data visualizations
+     - [Violin distribution by profile](Viz/Violin_distribution_profiles.png)
+     - [Repartition of customers by their spending flag](Viz/Spending_flag_repartition.png)
+     - [Barplot of the average price by customer profile and by US region](Viz/Barplot_average_price_by_region_and_customer_profile.png)
+     - [Heatmap of money spent by customer profiles accross US states](Viz/Heatmap_profile_avg_price.png)
+     - [Choropleth map of money spent accross US by customer profile](Viz/Map_client_profile_avg_price.html) *.html not supported, interactive file to be downloaded*
    - Exporting Dataframes and visualizations
 
 ## 5. [Final Report](Final_Report/A4_final_report_Matthieu.xlsx) *Excel workbook to be dowloaded since the format is not supported inside Github*
