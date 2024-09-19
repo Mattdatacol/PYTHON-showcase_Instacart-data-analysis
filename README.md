@@ -22,7 +22,7 @@ Instacart already has very good sales, and they want to uncover more information
 
 ## 3. Data set & tools
 
-- Most files were collected on “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](HTTPS://www.kaggle.com/datasets/psporks/instacart-market-basket-analysis), dowloaded on May 20th 2024.
+- Most files were collected on “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset), dowloaded on May 20th 2024.
 
 > [!CAUTION]
 > Data about customers has been fabricated by [Careerfoundry](https://careerfoundry.com/) for the purpose of the tuition and is not representative of real instacart customers
